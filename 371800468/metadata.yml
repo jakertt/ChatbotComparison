@@ -1,0 +1,13 @@
+---
+:id: 371800468
+:submitters:
+- :name: Sonam Wangchuk
+  :email: sonam.wangchuk@yale.edu
+- :name: Jake Todd
+  :email: jake.todd@yale.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-11-20 20:32:53.480587000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-11-20 12:32:53.480587000 Z
+:status: processed
